@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+
+import vscode_conan_init
+
+vscode_conan_init.main()
